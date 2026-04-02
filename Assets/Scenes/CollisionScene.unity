@@ -471,13 +471,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961739749}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.27296886, y: -0, z: -0, w: 0.96202296}
+  m_LocalPosition: {x: 0, y: 5.7, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 31.682, y: 0, z: 0}
 --- !u!4 &1223340471 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1b9ca4eff97dcc3478ec187528218a60, type: 3}
@@ -784,21 +784,37 @@ PrefabInstance:
       propertyPath: MissilePrefabs
       value: 
       objectReference: {fileID: 1809302702299859670, guid: 406b504331728bc4d8bdaf9c9cc0918b, type: 3}
+    - target: {fileID: 1830255814475755901, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.11
+      objectReference: {fileID: 0}
     - target: {fileID: 2407089815772771906, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
       propertyPath: m_Name
       value: Spawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4521095609607002889, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.91
       objectReference: {fileID: 0}
     - target: {fileID: 5752153296993164202, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
       propertyPath: MissilePrefabs
       value: 
       objectReference: {fileID: 1809302702299859670, guid: 406b504331728bc4d8bdaf9c9cc0918b, type: 3}
+    - target: {fileID: 5850673541978268832, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853394740843160396, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7846930363144946184, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
       propertyPath: MissilePrefabs
       value: 
       objectReference: {fileID: 1809302702299859670, guid: 406b504331728bc4d8bdaf9c9cc0918b, type: 3}
     - target: {fileID: 7975303137855784498, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.9499999
+      value: 4.41
       objectReference: {fileID: 0}
     - target: {fileID: 7975303137855784498, guid: 4d1724f70076cee4b9103ed0b04dc01b, type: 3}
       propertyPath: m_LocalPosition.y
